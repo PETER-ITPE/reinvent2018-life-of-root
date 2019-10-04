@@ -4,6 +4,7 @@
   - 모든 테이블/컬럼명은 소문자로 표기
   - end_date를 제외한 나머지 날짜 컬럼은 default 값으로 현재 시간 기록
 */
+create database lifeofroot2018;
 
 USE lifeofroot2018;
 
